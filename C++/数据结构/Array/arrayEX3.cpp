@@ -28,7 +28,6 @@ void M1(int arr1[],int arr2[],int arr1_size,int arr2_size, int arr3[])
         cout<<arr3[i]<<" ";
 }
 
-/*改进M1*/
 
 void M2(int arr1[],int arr2[],int arr1_size,int arr2_size)
 {
