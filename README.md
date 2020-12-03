@@ -3,9 +3,9 @@ Version C++11
 Ma trajectoire d'apprendre CPP
 还包括一些数据结构的习题
 # 命名规范
-1.禁止连续下划线
-2.下划线后禁止接大写字母
-3.函数外标识符不用下划线开头
+    1.禁止连续下划线
+    2.下划线后禁止接大写字母
+    3.函数外标识符不用下划线开头
 
 ## 03/12/2020
 重读数组代码 尝试用指针和vector重写
@@ -21,5 +21,3 @@ Configuration de l’environnement
 https://zhuanlan.zhihu.com/p/87864677
 https://blog.csdn.net/bat67/article/details/76095813
 Ctrl+Shift+P 
->shell changer le terminal
-Configuration ‘run in’ ou ‘run in terminal’
