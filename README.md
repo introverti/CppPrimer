@@ -18,5 +18,5 @@ Ma trajectoire d'apprendre CPP
 
 ## 21/10/2020
 Configuration de l’environnement
-* [VSCode配置C/C++环境]<https://zhuanlan.zhihu.com/p/87864677>
-* [整理：Visual Studio Code (vscode) 配置C、C++环境/编写运行C、C++（主要Windows、简要Linux）]<https://blog.csdn.net/bat67/article/details/76095813>
+* [VSCode配置C/C++环境](https://zhuanlan.zhihu.com/p/87864677)
+* [整理：Visual Studio Code (vscode) 配置C、C++环境/编写运行C、C++（主要Windows、简要Linux](https://blog.csdn.net/bat67/article/details/76095813)
