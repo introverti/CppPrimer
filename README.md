@@ -3,9 +3,9 @@ Version C++11
 Ma trajectoire d'apprendre CPP  
 还包括一些数据结构的习题
 # 命名规范
-    1.禁止连续下划线
-    2.下划线后禁止接大写字母
-    3.函数外标识符不用下划线开头
+1.禁止连续下划线
+2.下划线后禁止接大写字母
+3.函数外标识符不用下划线开头
 
 ## 03/12/2020
 重读数组代码 尝试用指针和vector重写
@@ -17,5 +17,6 @@ Ma trajectoire d'apprendre CPP
 * EX4 交叉排列
 
 ## 21/10/2020
-[Configuration de l’environnement](https://zhuanlan.zhihu.com/p/87864677
-https://blog.csdn.net/bat67/article/details/76095813)
+Configuration de l’environnement
+* [VSCode配置C/C++环境]<https://zhuanlan.zhihu.com/p/87864677>
+* [整理：Visual Studio Code (vscode) 配置C、C++环境/编写运行C、C++（主要Windows、简要Linux）]<https://blog.csdn.net/bat67/article/details/76095813>
