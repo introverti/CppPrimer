@@ -23,6 +23,7 @@ int M1(int array[], int array_size)
     return -1;
 }
 
+
 int M2(int array[],int array_size)
 {
     /*创建hash表并将数列内容按出现频率导入 联想FFT*/
@@ -35,9 +36,9 @@ int M2(int array[],int array_size)
         if (mp[array[i]]==1)
             return array[i];
     /*另外一种方法 遍历哈希表 使用auto(C++11)*/
-    //for (auto x : mp) 
-        //if (x.second == 1) //second 对应哈希表的data
-            //return x.first; //first 对应哈希表的key
+    // for (auto x : mp) 
+    //     if (x.second == 1) //second 对应哈希表的data
+    //         return x.first; //first 对应哈希表的key
     }
     return -1;
 }

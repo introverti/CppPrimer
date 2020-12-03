@@ -15,10 +15,10 @@ void findsecondsmallest (int array[],int arr_size)
         cout<<"Entrée non validée";
         return;
     }
-    premier=seconde=INT_MAX;//from <iosstream>, INT_MAX=2147483647 while INT_MIN=-2147483648
+    premier=seconde=INT_MAX;//from <iostream>, INT_MAX=2147483647 while INT_MIN=-2147483648
     for (i=0;i<arr_size;i++)
     {
-        if (array[i]<premier)
+        if (array[i]<premier)//这里的array[i] 等同于 *(array+i) 
         {
             seconde=premier;
             premier=array[i];
@@ -35,7 +35,7 @@ void findsecondsmallest (int array[],int arr_size)
 int main()
 {
     int array[]={7,6,9,0,25,78};
-    int arr_size=sizeof(array)/sizeof(int);//数组长度，vector可以使用size()
+    int arr_size=sizeof(array)/sizeof(int);//数组长度，vector可以使用size()。
     findsecondsmallest(array,arr_size);
     system("Pause");
     return 0;
