@@ -3,7 +3,7 @@
 #include "headtest.h"
 using namespace std;
 using std::string;
-
+/*读取字符串的串口，以enter结束*/
 void stringRAW(string &bookNo)
 {   
     char n;
@@ -18,7 +18,7 @@ void stringRAW(string &bookNo)
 int main(){
     string a="hello";
     stringRAW(a);
-    strcut book1;
+    Sales_data book1;
     book1.bookNo=a;
     cout<<book1.bookNo;
     return 0;
